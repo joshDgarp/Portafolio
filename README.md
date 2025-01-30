@@ -13,6 +13,10 @@ El DashBoard Permite una mejor toma de desiciones a la hora de manejar el talent
 Disteku una empresa ficticia solicita un un reporte financiero en el cual se puedan visualizar los KPI's para ver el desempeño de la empresa se tiene una visión detallada de los ingresos, gastos y márgenes de beneficio, permitiendo segmentar la información por año, segmento de mercado, marca y país.
 ![Disteku](/img/Proyecto2.jpeg)
 #### -Proyecto 3 | Excel 
+Se reliza el resumen anual en el cual se pueden ver mes a mes las ventas , KPI's y el desempeño de las 3 tiendas .Se puede realizar un analicis para enocontrar areas de oportunidad y optimizacion para asi mejorar la rentabilidad del negocio.
+El dashbord es de gran valor para la empresa , ahora puede tomar deciciones estrategicas y aumentar su rentabilidad
+![Exel-DashBord](/img/ExcelProyecto3.png)
+_Source:_[Excel-Ventas](/img/Resumen_ventas.xlsx)
 ### Certificados
 ![CertificadoBD](/img/CertificadoBD.jpeg)
 ![Conocimiento](/img/BDknoledge.jpeg)
