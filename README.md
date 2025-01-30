@@ -1,6 +1,7 @@
 # Portafolio
 >Tengo como objetivo es seguir creciendo en el campo de la analítica de datos y contribuir activamente al desarrollo de soluciones tecnológicas que impacten positivamente a las organizaciones.
 ---
+
 #### - Proyecto 1 | Power BI Recursos Humanos
 Se elavora un DashBoard dinamico para un empresa que desea realizar un analisis de sus empleados . Se pueden distinguir facilmente el genero , la funcion , Departamento en el que trabajan , ubicacion y funcion que ejercen. 
 El DashBoard Permite una mejor toma de desiciones a la hora de manejar el talento dentro de la empresa
