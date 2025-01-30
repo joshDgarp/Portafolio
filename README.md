@@ -1,5 +1,5 @@
 # Portafolio
->Tengo como objetivo es seguir creciendo en el campo de la analítica de datos y contribuir activamente al desarrollo de soluciones tecnológicas que impacten positivamente a las organizaciones.
+>Tengo como objetivo seguir creciendo en el campo de la analítica de datos y contribuir activamente al desarrollo de soluciones tecnológicas que impacten positivamente a las organizaciones.
 
 
 #### - Proyecto 1 | Power BI Recursos Humanos
@@ -19,3 +19,4 @@ Disteku una empresa ficticia solicita un un reporte financiero en el cual se pue
 _Source:_ [SQL Roadmap](https://www.youtube.com/watch?v=yMqldbY2AAg)
 ![IntroExcel](/img/CertificadoExcelIntro.png)
 ![ExcelBasic](/img/CertificadoEcxelBasic.png)
+![DataDriven](/img/CertificadoDataDriven.png)
