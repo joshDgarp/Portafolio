@@ -7,7 +7,8 @@ Se elavora un DashBoard dinamico para un empresa que desea realizar un analisis 
 El DashBoard Permite una mejor toma de desiciones a la hora de manejar el talento dentro de la empresa
 
 ![Home-DashBoard](/img/Proyecto1.jpeg)
-|![Filtros](/img/Proyecto1.1.jpeg)|![Ventana-Apoyo](/img/Proyecto1.2.jpeg)|
+![Filtros](/img/Proyecto1.1.jpeg)
+![Ventana-Apoyo](/img/Proyecto1.2.jpeg)
 
 #### -Proyecto 2 | Power BI Finazas
 Disteku una empresa ficticia solicita un un reporte financiero en el cual se puedan visualizar los KPI's para ver el desempeño de la empresa se tiene una visión detallada de los ingresos, gastos y márgenes de beneficio, permitiendo segmentar la información por año, segmento de mercado, marca y país.Disteku puede tomar accion sabiendo cuando cumplen con el margen establecido e investigar la causa para tener un mejor control financiero.
