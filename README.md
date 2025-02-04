@@ -7,7 +7,7 @@
 
 | **Objetivo**                                                                 | **Insights** |
 |------------------------------------------------------------------------------|--------------|
-| Elaborar un Dashboard dinámico para analizar la distribución de empleados en una empresa, identificando género, función, departamento, ubicación y roles. Facilitar la toma de decisiones estratégicas para la gestión del talento. |DLos despidos masivos de 2020 redujeron el área de Operaciones al 35% de su capacidad, con mayor impacto en Manufactura (Baja California) e Ingeniería (distribución nacional). Esto genera riesgos críticos por lo que se recomienda reasignar personal para evitar cuellos de botella y priorizar contrartaciones a estas areas.|
+| Elaborar un Dashboard dinámico para analizar la distribución de empleados en una empresa, identificando género, función, departamento, ubicación y roles. Facilitar la toma de decisiones estratégicas para la gestión del talento. |Los despidos masivos de 2020 redujeron el área de Operaciones al 35% de su capacidad, con mayor impacto en Manufactura (Baja California) e Ingeniería (distribución nacional). Esto genera riesgos críticos por lo que se recomienda reasignar personal para evitar cuellos de botella y priorizar contrartaciones a estas areas.|
 
 ![Home-DashBoard](/img/Proyecto1.jpeg)  
 ![Filtros](/img/Proyecto1.1.jpeg)  
