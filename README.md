@@ -11,7 +11,7 @@
 
 ![Home-DashBoard](/img/Proyecto1.jpeg)  
 ![Filtros](/img/Proyecto1.1.jpeg)  
-![Ventana-Apoyo](/img/Proyecto1.2.jpeg)  
+![Ventana-Apoyo](/img/Proyecto1.4.png)  
 
 ---
 
