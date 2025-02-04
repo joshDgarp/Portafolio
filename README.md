@@ -19,7 +19,7 @@
 
 | **Objetivo**                                                                 | **Insights** |
 |------------------------------------------------------------------------------|--------------|
-| Crear un reporte financiero para Disteku (empresa ficticia) que permita visualizar KPI's clave, como ingresos, gastos y márgenes de beneficio. Segmentar la información por año, segmento de mercado, marca y país para mejorar el control financiero y la toma de decisiones. |Colombia no alcanzó el margen objetivo del 15% entre 2018-2020, con bajo desempeño en los segmentos Enterprise y PYME para todos los paises. Solo 2-3 marcas lograron el margen anualmente: Por los que se recomienda Reenfocar las inversiones para los segmentos de Enterprise y PYME llegando a acuerdos incluyendo las marcas que no se despeñan respecto margen|
+| Crear un reporte financiero para Disteku (empresa ficticia) que permita visualizar KPI's clave, como ingresos, gastos y márgenes de beneficio. Segmentar la información por año, segmento de mercado, marca y país para mejorar el control financiero y la toma de decisiones. |Colombia no alcanzó el margen objetivo del 15% entre 2018-2020, con bajo desempeño en los segmentos Enterprise y PYME para todos los paises. Solo 2-3 marcas lograron el margen anualmente: Por los que se recomienda Reenfocar las inversiones para los segmentos de Enterprise y PYME llegando a acuerdos incluyendo las marcas que no se despeñan respecto margen. |
 
 ![Disteku](/img/Proyecto2.jpeg)  
 
@@ -29,7 +29,7 @@
 
 | **Objetivo**                                                                 | **Insights** |
 |------------------------------------------------------------------------------|--------------|
-| Desarrollar un resumen anual de ventas que muestre el desempeño mensual de 3 tiendas, incluyendo KPI's clave. Identificar áreas de oportunidad y optimización para mejorar la rentabilidad del negocio y apoyar la toma de decisiones estratégicas. |              |
+| Desarrollar un resumen anual de ventas que muestre el desempeño mensual de 3 tiendas, incluyendo KPI's clave. Identificar áreas de oportunidad y optimización para mejorar la rentabilidad del negocio y apoyar la toma de decisiones estratégicas. |La tienda 1 mostro ventas relevantes solo en enero y mayo con caidas criticas en otros meses esto sugiere una mala gestion o un desperdicio de recursos por lo que se sugiere optimizar el inventario y hacer campañas para que tengas ventas mas estables.|
 
 ![Excel-DashBoard](/img/ExcelProyecto3.png)  
 _Source:_ [Excel-Ventas](/img/Resumen_ventas.xlsx)  
